@@ -13,14 +13,14 @@ In a nutshell, Jenkins is the leading open-source automation server.
 Built with Java, it provides over 1,800 [plugins](https://plugins.jenkins.io/) to support automating virtually anything,
 so that humans can spend their time doing things machines cannot.
 
-# What to Use Jenkins for and When to Use It
+# What to Use Jenkins for and When to Use It - 2
 
 Use Jenkins to automate your development workflow, so you can focus on work that matters most. Jenkins is commonly used for:
 
-- Building projects
+- Building projects for yourself
 - Running tests to detect bugs and other issues as soon as they are introduced
 - Static code analysis
-- Deployment
+- Deployment (CI/CD)
 
 Execute repetitive tasks, save time, and optimize your development process with Jenkins.
 
@@ -65,7 +65,7 @@ Jenkins Code of Conduct can be found [here](https://www.jenkins.io/project/condu
 # Adopters
 
 Jenkins is used by millions of users and thousands of companies.
-See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins adopters and their success stories.
+See [adopters](https://www.jenkins.io/project/adopters/) for the list of Jenkins users and their tasks.
 
 # License
 
